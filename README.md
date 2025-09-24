@@ -7,3 +7,6 @@ Step 2: const [count, setCount] = useState(0)
 Step 3: Add Increment button → onClick setCount(count + 1)
 Step 4: Add Decrement button → onClick setCount(count - 1)
 Step 5: Display current count value
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/13931f93-b118-47ca-bb1f-bd4f91a29535" />
